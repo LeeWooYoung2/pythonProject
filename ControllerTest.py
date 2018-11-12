@@ -6,6 +6,7 @@ import MainTest
 import UiEx
 import PospotMainDialog
 
+#커밋용
 class ControllerTest():
     def __init__(self): 
         super(ControllerTest, self).__init__() 
